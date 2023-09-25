@@ -1,4 +1,5 @@
 erlang 26.0
+rebar 3.22.1
 elixir 1.15.6-otp-26
 nodejs 20.7.0
 deno 1.37.0
