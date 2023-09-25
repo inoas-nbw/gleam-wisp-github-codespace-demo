@@ -1,6 +1,6 @@
 # Wisp Example: Working with form data
 
-Copy of <https://github.com/lpil/wisp/tree/main/examples/2-working-with-form-data>
+Slightly modified copy of <https://github.com/lpil/wisp/tree/main/examples/2-working-with-form-data>
 
 ```sh
 gleam run   # Run the server
